@@ -1,0 +1,1 @@
+This repository contains a TypeScript code example demonstrating a common type error: assigning a string value to a number variable. The bug.ts file shows the erroneous code that leads to the type error. The bugSolution.ts file presents a corrected version with explicit type checking and error handling.
